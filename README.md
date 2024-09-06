@@ -1,4 +1,4 @@
-📊 Customer Segmentation and Sales Analysis
+📊 #Customer Segmentation and Sales Analysis
 
 🌟 Project Overview:
 This project focuses on analyzing a retail company's sales data to better understand customer behavior and identify key sales trends. The goal is to segment customers based on their purchasing patterns, analyze sales trends, and provide actionable insights to enhance the company's sales strategy.
